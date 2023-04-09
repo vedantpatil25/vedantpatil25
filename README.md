@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Patil</h1>
-<h3 align="center">I am Coding Enthusiast</h3>
+<h3 align="center">I am a Coding Enthusiast</h3>
 <!-- <img align="right" width="150px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 
 <h2 align="center" >Website : https://vedant-patil.web.app/ </h2>
