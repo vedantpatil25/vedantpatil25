@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/vedantpatil2002" target="blank"><img src="https://img.shields.io/twitter/follow/vedantpatil2002?logo=twitter&style=for-the-badge" alt="vedantpatil2002" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack, React JS, Node JS**
+- 🌱 I’m currently learning **Full Stack, React JS, Node JS, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://vedant-patil.web.app/](https://vedant-patil.web.app/)
 
